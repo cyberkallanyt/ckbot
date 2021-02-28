@@ -1,5 +1,5 @@
 {
-    "name": "whatsbot",
+    "name": "ck-whatsbot",
     "version": "1.5.0",
     "description": "Plugable Userbot for WhatsApp",
     "main": "main.js",

@@ -1,8 +1,8 @@
 {
-    "name": "Whatsbot",
+    "name": "CK Whatsbot",
     "description": "Modular Userbot for Whatsapp",
-    "repository": "https://github.com/TheWhatsBot/WhatsBot",
-    "logo": "https://telegra.ph/file/96ccad5945c18944c5f15.png",
+    "repository": "https://github.com/cyberkallanyt/wp-bot",
+    "logo": "https://telegra.ph/file/338dd1f653eb10ded12a7.png",
     "keywords": [
         "whatsbot",
         "whatsapp-userbot",
